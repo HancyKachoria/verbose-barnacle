@@ -48,7 +48,7 @@ const ResearchPaperModal: React.FC<ResearchPaperModalProps> = ({ paper, onClose 
 
           {/* Content */}
           <div className="flex flex-col md:flex-row">
-            {/* Paper Preview */}
+            {/* Papererr Preview */}
             <div className="w-full md:w-2/3 bg-black">
               <img
                 src={paper.image}
